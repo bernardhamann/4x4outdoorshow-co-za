@@ -92,11 +92,11 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .site-wrapper {
-   background: orange;    
+   background: black url(../../assets/img/4x4outdoor-tile-2-80-80.png);    
 }
 
 .site-container {
-    max-width: 960px;            /*    This is where you set the width of you websites active area, if you want the site to span the whole browser window just remove this*/
+              /*    max-width: 960pxThis is where you set the width of you websites active area, if you want the site to span the whole browser window just remove this*/
 }
 
 
@@ -107,9 +107,11 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .section-top-wrapper {
+
 }
 
 .section-top-container {
+   
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -117,20 +119,31 @@ a:focus {
 /* ------------------------------------------------------------------------------- */
 
 .topbar-wrapper {
+   min-height: 300px;
 }
+
+.nav-tabs {
+   border-bottom: none !important;    /* removed a funny line at the bottom of the topbar nav*/
+)
+
 
 .topbar-container {
 }
+
+.topbar-container a {
+   font-size: 3em;
+}
+
 
 /* ------------------------------------------------------------------------------- */
                                     /* Topbanner*/
 /* ------------------------------------------------------------------------------- */
 
 .topbanner-wrapper {
+   background: #e9e8dc;;
 }
 
 .topbanner-container {
-   background: url("/assets/yebojek/img/header-2.png");
 
 
 }
@@ -165,9 +178,7 @@ a:focus {
 }
 
 .nav-container {
-   background: grey;
-   margin-left: 10px;
-   margin-right: 10px;
+
 }
 
 
@@ -192,6 +203,8 @@ a:focus {
 }
 
 .section-content-container {
+
+
 }
 
 /* ------------------------------------------------------------------------------- */
@@ -202,6 +215,7 @@ a:focus {
 }
 
 .content-container {
+
 }
 
 
