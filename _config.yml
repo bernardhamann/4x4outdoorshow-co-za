@@ -1,7 +1,7 @@
-name: "JeboJek - The Best Jekyll Template"
-description: "This is the Description"
+name: "The South African 4x4 & Outdoor Show"
+description: "Exhibition of Everything Off Road and Everything Outdoor with Live entertainment at the event"
 main_keywords: "Keyword"
-author: "Me"
+author: "Yebolocal.com"
 copyright: "2013"
 
 # Pagination
@@ -11,7 +11,7 @@ markdown:        rdiscount
 pygments:         true
 
 # Permalinks
-permalink:        /:categories/:title/index.html
+permalink:       
 
 # Server
 base_url: /
