@@ -1,7 +1,7 @@
 name: "The South African 4x4 & Outdoor Show"
-description: "Exhibition of Everything Off Road and Everything Outdoor with Live entertainment at the event"
+description: "Exhibition of Everything Off Road and Everything Outdoor with Live Entertainment at the event"
 main_keywords: "Keyword"
-author: "Yebolocal.com"
+author: "Me"
 copyright: "2013"
 
 # Pagination
@@ -9,9 +9,6 @@ copyright: "2013"
 # Dependencies
 markdown:        rdiscount
 pygments:         true
-
-# Permalinks
-permalink:       
 
 # Server
 base_url: /
