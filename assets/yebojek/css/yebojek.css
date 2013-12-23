@@ -141,11 +141,11 @@ ul {                                 /* Unordered List styling*/
 /* ------------------------------------------------------------------------------- */
 
 .content-wrapper {
-   background: white;
 }
 
 .content-container {
-   padding: 20px 40px 30px 40px
+   padding: 20px 40px 30px 40px;
+   background: #eeeeee
 }
 
 
