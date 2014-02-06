@@ -194,3 +194,11 @@ ul {                                 /* Unordered List styling*/
    padding-bottom: 1px;     /*  This removes a funny line at the bottom of the site */
 }
 
+
+.dirt {
+   background: url(../../img/bg-dirt.png) !important;
+}
+
+.el {
+   font-size: large;
+}
