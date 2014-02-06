@@ -201,4 +201,6 @@ ul {                                 /* Unordered List styling*/
 
 .el {
    font-size: large;
+   margin-bottom: none;
+   padding-bottom: none;
 }
